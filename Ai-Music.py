@@ -51,7 +51,7 @@ database = {
 }
 
 # Đường dẫn đến file âm thanh bạn muốn xác định ca sĩ
-audio_file_to_identify = "./Music/AI-Bieber_Test.wav"
+audio_file_to_identify = "./Music/justin_cold_water.wav"
 
 # Xác định ca sĩ
 singer_identified = identify_singer(audio_file_to_identify, database)
